@@ -7,7 +7,7 @@ PONVIF Discovery Extensions 1.0
 
 1) Required module (for WS and UPNP) 
 
-   require 'lib/class.ponvif_ext.php';
+   require "lib/class.ponvif_ext.php";
 
 2) WS Discovery: 
 
