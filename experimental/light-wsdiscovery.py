@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 # Super fast WS-Discovery using twisted. Buona idea per implementazione snella. 
 

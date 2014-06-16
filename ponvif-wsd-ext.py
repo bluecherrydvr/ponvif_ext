@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 import json, getopt, sys, settings
 from WSDiscovery import WSDiscovery

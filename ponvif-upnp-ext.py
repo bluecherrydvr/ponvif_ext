@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 # Python program that can send out M-SEARCH messages using SSDP (in server
 # mode), or listen for SSDP messages (in client mode).

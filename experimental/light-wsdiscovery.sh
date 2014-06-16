@@ -1,1 +1,1 @@
-python ./light-wsdiscovery.py server 0
+python2 ./light-wsdiscovery.py server 0
